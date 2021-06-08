@@ -4,8 +4,8 @@
 
 <!-- ![Preview](img1.png) -->
 
-![Preview](images/img1.png)
-![Preview](images/img2.png)
+![Preview](images/img1.jpg)
+![Preview](images/img2.jpg)
 ## Author
 
 👤 **Yash Lalpotu**
