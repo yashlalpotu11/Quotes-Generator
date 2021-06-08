@@ -1,11 +1,18 @@
 # Quotes Generator
 
+# Demo
+
 ### LINK: https://myquotesgenerator.netlify.app/ 
 
 <!-- ![Preview](img1.png) -->
 
-![Preview](images/img1.jpg)
-![Preview](images/img2.jpg)
+<!-- ![Preview](images/img1.jpg)
+![Preview](images/img2.jpg) -->
+
+<img src="images/img1.jpg" width=40% height=50%>
+<img src="images/img2.jpg" width=40% height=50%>
+
+
 ## Author
 
 👤 **Yash Lalpotu**
